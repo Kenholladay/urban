@@ -118,6 +118,7 @@ Parse.Cloud.define("purchaseItem", function(request, response) {
                                  'contact store@parse.com at your earliest convinience. ');
     });
 
+
   }).then(function(order) {
     // Credit card charged and order item updated properly!
     // We're done, so let's send an email to the user.
