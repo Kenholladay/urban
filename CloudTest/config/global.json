@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.2.1"
+  },
+  "applications": {
+    "ParseStore": {
+      "applicationId": "mIuRcKp1IzeCWheqNYynzLEb8YRX4hurxPBZMViz",
+      "masterKey": "miAGVT1RPu5B8IbGks3vNzMuotKVYH6joUenXAVL"
+    },
+    "_default": {
+      "link": "ParseStore"
+    }
+  }
+}

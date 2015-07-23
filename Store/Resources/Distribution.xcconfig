@@ -1,0 +1,15 @@
+//
+//  Distribution.xcconfig
+//  Store
+//
+//  Created by Andrew Wang on 3/1/13.
+//
+
+// Production app keys.
+// Please enter Parse App ID, Parse Client key, and Stripe's live publishable key.
+// We recommend that you use a different Parse app for production than test.
+
+PARSE_APPLICATION_ID = mIuRcKp1IzeCWheqNYynzLEb8YRX4hurxPBZMViz
+PARSE_CLIENT_KEY = lMCcC5jX6rlN9O70WCLVEOpALBu6LVIth3FXaquK
+STRIPE_PUBLISHABLE_KEY = pk_test_AuMf6cug5PPoiSWz5f9nXCbh
+

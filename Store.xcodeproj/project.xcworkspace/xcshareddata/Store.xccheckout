@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1F078434-53CC-447E-9DDC-4B78B5BB6D4F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Store</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>562C8262A8B4C99F5F2042F9521E20CE5799037B</key>
+		<string>https://github.com/ParsePlatform/ParseStore.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Store.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>562C8262A8B4C99F5F2042F9521E20CE5799037B</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ParsePlatform/ParseStore.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>562C8262A8B4C99F5F2042F9521E20CE5799037B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>562C8262A8B4C99F5F2042F9521E20CE5799037B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ParseStore</string>
+		</dict>
+	</array>
+</dict>
+</plist>
